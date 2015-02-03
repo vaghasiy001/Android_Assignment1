@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Basic Concepts</string>
+    <string name="TestMessage">This is a Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="PushMe">Push Me</string>
+    <string name="ClickMe">Click Me</string>
+
+</resources>
